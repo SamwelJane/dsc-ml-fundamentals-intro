@@ -25,3 +25,5 @@ Lasso regression in particular does not have a closed form solution and therefor
 ## Summary
 
 Linear regression can be used for prediction as well as inference. This has implications for the modeling techniques required, because the emphasis is not solely on the fit to the training data. In this section we'll go over the theoretical concerns as well as the practical approaches to tackling them.
+
+## Conclusion
